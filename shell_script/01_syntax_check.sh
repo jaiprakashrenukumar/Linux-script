@@ -1,7 +1,8 @@
 #!/bin/bash
 
 
-Script: check syntax and debug the script
+#Script: check syntax and debug the script
+#Author : Jaiprakash 
 
 #set -x uncomment to check the syntax 
 
